@@ -64,3 +64,10 @@ The test suite uses generated synthetic data; it does not use the user's biologi
 ## Version
 
 This package is HapBlock V17.0.0. V16 files are not required and are not modified by this package.
+
+## Contributors
+
+- **Yi Liao** — project conception, biological requirements, workflow design direction, and scientific review.
+- **OpenAI Codex** — implementation assistance, testing, performance improvements, and documentation.
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md).

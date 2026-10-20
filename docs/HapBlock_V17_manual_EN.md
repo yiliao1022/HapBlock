@@ -413,4 +413,4 @@ bash tests/run_tests.sh
 
 The tests cover chain-merging prevention, short-gap bridging, sustained boundaries, the 10%/50% association rule, cultivar-only mode, and cultivar+wild mode. They do not run the user's large biological dataset.
 
-OpenAI Codex assisted with requirement synthesis, workflow redesign, implementation, testing, and documentation for HapBlock V17. Biological conclusions should be evaluated by the researchers using species genetics, sampling design, and independent evidence.
+**Yi Liao** contributed the project concept, biological requirements, workflow design direction, and scientific review. **OpenAI Codex** assisted with requirement synthesis, workflow redesign, implementation, testing, performance improvements, and documentation. Biological conclusions should be evaluated by the researchers using species genetics, sampling design, and independent evidence.
