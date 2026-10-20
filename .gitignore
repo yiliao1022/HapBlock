@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+00_run_info/
+01_genotype_cache/
+results*/
+*.log
+.DS_Store
